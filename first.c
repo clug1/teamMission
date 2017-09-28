@@ -24,4 +24,3 @@ linus torvalds와 Alan Mathison Turing를 거쳐 clug 부스까지
 * 본 행사는 linus torvalds와 Alan Mathison Turing와 무관함을 알려드립니다.
 
 */
-
